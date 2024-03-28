@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 100px auto;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(50, 101, 66);
+
+    /* background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20220911/pngtree-display-of-a-black-smartphone-showcasing-the-todoist-apps-play-store-page-photo-image_33735068.jpg);
+
+    background-size: cover; */
+    
+}
+
+h1 {
+    text-align: center;
+    color: #29ad29;
+}
+
+input[type="text"] {
+    width: 50%;
+    padding: 20px;
+    margin-bottom: 10px;
+    box-shadow: 10px 10px 5px rgb(91, 148, 95);
+
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #29ad29;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 10px 10px 5px rgb(2, 60, 5);
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    width: 50%;
+    padding: 0px;
+    background-color:#29ad29;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+li {
+    padding: 5px;
+    background-color: white;
+    margin-bottom: 5px;
+    box-shadow: 10px 10px 5px rgb(91, 148, 95);
+  
+  }
+  
+  li:hover {
+    background-color: #29ad29;
+    color: white;
+  }
+  
